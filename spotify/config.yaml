@@ -2,7 +2,7 @@
 name: Spotify Connect w/out Discovery
 version: dev
 slug: spotify
-description: Play Spotify music on your Home Assistant device
+description: Play Spotify music on your Zinglerassistant device
 url: https://github.com/Gadzhi13/addon-spotify-connect
 arch:
   - aarch64
