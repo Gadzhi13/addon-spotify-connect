@@ -1,5 +1,5 @@
 ---
-name: Spotify Connect w/ot Discovery
+name: Spotify Connect w/out Discovery
 version: dev
 slug: spotify
 description: Play Spotify music on your Home Assistant device
