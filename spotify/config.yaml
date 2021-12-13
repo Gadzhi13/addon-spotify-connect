@@ -1,18 +1,18 @@
 ---
-name: Spotify Connect
+name: Spotify Connect w/ot Discovery
 version: dev
 slug: spotify
 description: Play Spotify music on your Home Assistant device
-url: https://github.com/hassio-addons/addon-spotify-connect
+url: https://github.com/Gadzhi13/addon-spotify-connect
 arch:
   - aarch64
   - amd64
   - armv7
   - i386
-host_network: true
+host_network: false
 audio: true
 options:
-  name: Home Assistant
+  name: Zonglerassistant
   bitrate: 160
 schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
